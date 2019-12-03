@@ -54,7 +54,7 @@ $ source env/bin/activate
 ## Instalación de DJANGO-CMS
 ### Instalación con pip de DJANGO-CMS
 ```sh
-$ pip install  django-cms-installer
+$ pip install  djangocms-installer
 ```
 ### Creación del proyecto
 ```sh
